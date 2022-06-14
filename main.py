@@ -234,3 +234,5 @@ class Calc:
 
 
 Calc()
+
+# pyinstaller main.py --onefile -n "Tkinter Calc" --noconsole --paths=.\venv\
